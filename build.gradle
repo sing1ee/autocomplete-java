@@ -24,6 +24,10 @@ jar {
 }
 
 dependencies {
+    testCompile('junit:junit:4.11')
 //    compile 'org.fnlp:fnlp-core:2.1'
     compile 'com.google.guava:guava:18.0'
+
+    //chinese to pinyin
+    compile('com.github.stuxuhai:jpinyin:1.0')
 }

@@ -1,6 +1,8 @@
 package io.github.sing1ee.autocomplete.tst;
 
 
+import io.github.sing1ee.autocomplete.AutoComplete;
+
 import java.util.LinkedList;
 import java.util.List;
 
